@@ -55,9 +55,12 @@ strokes (from left to right 20%-30% 30%-40% 40%-50% 50%-60%)
 
 ## Run training
 ```python
+
 python train.py 
+
 ```
--g represents gpu option.(utilize gpu of No.0) 
+1. set the config path ('./config/model_config.yml')
+2. set path and parameters detail in model_config.yml
 
 ## Result
 
