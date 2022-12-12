@@ -56,16 +56,17 @@ strokes (from left to right 20%-30% 30%-40% 40%-50% 50%-60%)
 ## Run training
 ```python
 
-python train.py 
+python train.py (main setting data_path/mask_path/val_path/val_mask_path/batch_size/train_epoch)
 
 ```
 1. set the config path ('./config/model_config.yml')
 2. Set path and parameter details in model_config.yml
+Note: If the training is interrupted and you need to resume training, you can set resume_ckpt and resume_D_ckpt.
 
 ## Run testing
 ```python
 
-python test.py 
+python test.py (main setting test_ckpt/test_path/test_mask_1_60_path/save_img_path)
 
 ```
 1. set the config path ('./config/model_config.yml')
