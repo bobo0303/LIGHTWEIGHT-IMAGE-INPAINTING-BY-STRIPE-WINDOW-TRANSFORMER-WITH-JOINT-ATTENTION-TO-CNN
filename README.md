@@ -6,10 +6,11 @@ The overview of our proposed model. The whole model structure is the main model 
 <img src="https://i.imgur.com/PWw3CpW.png" alt="https://i.imgur.com/PWw3CpW.png" title="https://i.imgur.com/PWw3CpW.png" width="1312" height="472">
 
 # Environment
-- Python 3.7.11
-- chainer  6.7.0   
-- opencv (only for cv.imread, you can replace it with PIL)  
+- Python 3.7.0
+- pytorch
+- opencv
 - PIL  
+- colorama
 
 or see the requirements.txt
 
