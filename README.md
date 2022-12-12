@@ -19,6 +19,7 @@ or see the requirements.txt
 ## Download dataset (place2、CelebA)
 [Place2](http://places2.csail.mit.edu/)  
 [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)  
+[ImageNet](https://www.image-net.org/download.php)
 
 ## Set dataset path
 
@@ -55,10 +56,6 @@ python train.py -g 0
 - CelebA 
 
 <img src="https://imgur.com/ARzFFZv.jpg" width="700" height="600">
-
-- ImageNet (need application)
-
-<img src="https://www.image-net.org/" width="700" height="600">
 
 - COMPLEXITY COMPARISON
 
