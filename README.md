@@ -38,11 +38,11 @@ test_mask_1_60_path: './test_mask_1+10_file/' # path
 txt example
 ```python
 
-E:/Place2/data_256/00000001.jpg
-E:/Place2/data_256/00000002.jpg
-E:/Place2/data_256/00000003.jpg
-E:/Place2/data_256/00000004.jpg
-E:/Place2/data_256/00000005.jpg
+E:/Places2/data_256/00000001.jpg
+E:/Places2/data_256/00000002.jpg
+E:/Places2/data_256/00000003.jpg
+E:/Places2/data_256/00000004.jpg
+E:/Places2/data_256/00000005.jpg
  ⋮
 
 ```
@@ -60,11 +60,11 @@ python train.py
 
 ```
 1. set the config path ('./config/model_config.yml')
-2. set path and parameters detail in model_config.yml
+2. Set path and parameter details in model_config.yml
 
 ## Result
 
-- Place2
+- Places2
 
 <img src="https://imgur.com/P2XHsSA.jpg" width="700" height="600">
 
@@ -79,13 +79,13 @@ python train.py
 All training and testing base on same 2080 Ti.
 
 ## Visual comparisons
-- Place2
+- Places2
 
-<img src="https://imgur.com/ysnqyN1.jpg" width="600" style="zoom:100%;">
+<img src="https://imgur.com/MXPw6V5.jpg" width="600" style="zoom:100%;">
 
 - CelebA
 
-<img src="https://imgur.com/JF8mzU0.jpg" width="600" style="zoom:100%;">
+<img src="https://imgur.com/kpLYqj3.jpg" width="600" style="zoom:100%;">
 
 ## Difference from original paper
 Firstly, check [implementation FAQ](http://masc.cs.gmu.edu/wiki/partialconv)
