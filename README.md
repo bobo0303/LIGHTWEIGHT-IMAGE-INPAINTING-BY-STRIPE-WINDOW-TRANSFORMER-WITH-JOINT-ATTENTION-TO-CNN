@@ -81,11 +81,11 @@ All training and testing base on same 2080 Ti.
 ## Visual comparisons
 - Places2
 
-<img src="https://imgur.com/MXPw6V5.jpg" width="600" style="zoom:100%;">
+<img src="https://imgur.com/MXPw6V5.jpg" width="1000" style="zoom:100%;">
 
 - CelebA
 
-<img src="https://imgur.com/kpLYqj3.jpg" width="600" style="zoom:100%;">
+<img src="https://imgur.com/kpLYqj3.jpg" width="1000" style="zoom:100%;">
 
 ## Difference from original paper
 Firstly, check [implementation FAQ](http://masc.cs.gmu.edu/wiki/partialconv)
