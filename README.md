@@ -61,6 +61,7 @@ python train.py (main setting data_path/mask_path/val_path/val_mask_path/batch_s
 ```
 1. set the config path ('./config/model_config.yml')
 2. Set path and parameter details in model_config.yml
+
 Note: If the training is interrupted and you need to resume training, you can set resume_ckpt and resume_D_ckpt.
 
 ## Run testing
