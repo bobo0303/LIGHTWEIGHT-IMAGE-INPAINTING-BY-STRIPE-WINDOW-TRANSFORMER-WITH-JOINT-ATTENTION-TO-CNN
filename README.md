@@ -2,8 +2,8 @@
 
 Reproduction of Nvidia image inpainting paper "Image Inpainting for Irregular Holes Using Partial Convolutions" https://arxiv.org/abs/1804.07723
 
-mdoel structure
-<img src="https://i.imgur.com/wUjHZ2e.png" alt="https://i.imgur.com/wUjHZ2e.png" title="https://i.imgur.com/wUjHZ2e.png" width="768" height="512">
+- mdoel structure
+<img src="https://i.imgur.com/wUjHZ2e.png" alt="https://i.imgur.com/wUjHZ2e.png" title="https://i.imgur.com/wUjHZ2e.png" width="5248" height="1888">
 
 10,000 iteration results  (completion, output, mask)  
 <img src="https://imgur.com/KxYDgF3.jpg"  width="768" height="512">
