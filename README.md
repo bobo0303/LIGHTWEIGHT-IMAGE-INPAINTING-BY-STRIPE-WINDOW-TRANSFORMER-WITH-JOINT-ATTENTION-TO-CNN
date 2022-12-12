@@ -62,6 +62,15 @@ python train.py
 1. set the config path ('./config/model_config.yml')
 2. Set path and parameter details in model_config.yml
 
+## Run testing
+```python
+
+python test.py 
+
+```
+1. set the config path ('./config/model_config.yml')
+2. Set path and parameter details in model_config.yml
+
 ## Result
 
 - Places2
