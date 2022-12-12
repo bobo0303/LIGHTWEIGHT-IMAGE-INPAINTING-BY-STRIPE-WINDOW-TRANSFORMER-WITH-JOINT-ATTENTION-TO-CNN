@@ -35,7 +35,7 @@ test_mask_1_60_path: './test_mask_1+10_file/' # path
 
 ```
 
-path txt example
+txt example
 ```python
 
 E:/Place2/data_256/00000001.jpg
