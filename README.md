@@ -23,13 +23,24 @@ or see the requirements.txt
 
 ## Set dataset path
 
-Edit common/paths.py
+Edit txt/xxx.txt (set path in config)
 ```python
-train_place2 = "/yourpath/place2/data_256/"
-val_place2 = "/yourpath/place2/val_256/"
-test_place2 = "/yourpath/test_256/"
+
+data_path = train_path.txt
+mask_path = train_mask_path.txt
+val_path = val_path.txt
+val_mask_path = 'yourpath/val_mask_file/' # path
+test_path: test_path.txt
+test_mask_1~60_path: 'yourpath/test_mask_1+10_file/' # path
 
 ```
+
+path txt example
+```python
+
+
+```
+
 ## Preprocessing  
 In this implementation, masks are automatically generated in advance.  
 ```python
