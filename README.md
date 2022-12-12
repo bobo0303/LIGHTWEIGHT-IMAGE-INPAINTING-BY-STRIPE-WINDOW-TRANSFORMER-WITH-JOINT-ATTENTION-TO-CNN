@@ -49,14 +49,11 @@ E:/Place2/data_256/00000005.jpg
 
 ## Preprocessing  
 In this implementation, masks are automatically generated in advance.  
-```python
-python generate_windows.py image_size generate_num
-```
-"image_size" indicates image size of masks.  
-"generate_num" indicates the number of masks to generate.  
 
-Default implementation uses image_size=256 and generate_num=1000.  
-Note that original paper uses 512x512 image and generate mask with different way. 
+strokes(20+30 30+40 40+50 50+60)
+<img src="https://imgur.com/m3CStkN.png" alt="https://imgur.com/m3CStkN.png" title="https://imgur.com/m3CStkN.png" width="1312" height="400">
+
+
 
 ## Run training
 ```python
