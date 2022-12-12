@@ -51,7 +51,7 @@ E:/Place2/data_256/00000005.jpg
 In this implementation, masks are automatically generated in advance.  
 
 strokes(20+30 30+40 40+50 50+60)
-<img src="https://imgur.com/m3CStkN.png" alt="https://imgur.com/m3CStkN.png" title="https://imgur.com/m3CStkN.png" width="1024" height="256">
+<img src="https://imgur.com/m3CStkN.png" alt="https://imgur.com/m3CStkN.png" title="https://imgur.com/m3CStkN.png" width="1000" height="250">
 
 
 
