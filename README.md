@@ -26,12 +26,12 @@ or see the requirements.txt
 Edit txt/xxx.txt (set path in config)
 ```python
 
-data_path = train_path.txt
-mask_path = train_mask_path.txt
-val_path = val_path.txt
-val_mask_path = 'yourpath/val_mask_file/' # path
-test_path: test_path.txt
-test_mask_1~60_path: 'yourpath/test_mask_1+10_file/' # path
+data_path = './txt/train_path.txt'
+mask_path = './txt/train_mask_path.txt'
+val_path = './txt/val_path.txt'
+val_mask_path = './val_mask_file/' # path
+test_path: './txt/test_path.txt'
+test_mask_1_60_path: './test_mask_1+10_file/' # path
 
 ```
 
@@ -43,7 +43,7 @@ E:/Place2/data_256/00000002.jpg
 E:/Place2/data_256/00000003.jpg
 E:/Place2/data_256/00000004.jpg
 E:/Place2/data_256/00000005.jpg
-⋮
+ ⋮
 
 ```
 
