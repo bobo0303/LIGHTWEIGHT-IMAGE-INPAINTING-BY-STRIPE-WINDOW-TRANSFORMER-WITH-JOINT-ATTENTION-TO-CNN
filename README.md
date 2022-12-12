@@ -72,11 +72,11 @@ python train.py
 
 <img src="https://imgur.com/ARzFFZv.jpg" width="700" height="600">
 
-- COMPLEXITY COMPARISON
+- LPIPS (Places2)
 
 <img src="https://imgur.com/hjZB4k7.jpg" width="861" height="131">
 
-All training and testing base on same 2080 Ti.
+All training and testing base on same 3060.
 
 ## Visual comparisons
 - Places2
@@ -87,15 +87,10 @@ All training and testing base on same 2080 Ti.
 
 <img src="https://imgur.com/kpLYqj3.jpg" width="1000" style="zoom:100%;">
 
-## Difference from original paper
-Firstly, check [implementation FAQ](http://masc.cs.gmu.edu/wiki/partialconv)
-1. C(0)=0 in first implementation (already fix in latest version)
-2. Masks are generated using random walk by generate_window.py
-3. To use chainer VGG pre-traied model, I re-scaled input of the model. See updater.vgg_extract. It includes cropping, so styleloss in outside of crop box is ignored.)
-4. Padding is to make scale of height and width input:output=2:1 in encoder stage.  
+## Ablation studies
+- HSV
 
-other differences:  
-- image_size=256x256 (original: 512x512)
+- Transformer
 
 
 ## Acknowledgement
