@@ -16,8 +16,8 @@ or see the requirements.txt
 
 # How to try
 
-## Download dataset (place2、CelebA)
-[Place2](http://places2.csail.mit.edu/)  
+## Download dataset (places2、CelebA、ImageNet)
+[Places2](http://places2.csail.mit.edu/)  
 [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)  
 [ImageNet](https://www.image-net.org/download.php)
 
