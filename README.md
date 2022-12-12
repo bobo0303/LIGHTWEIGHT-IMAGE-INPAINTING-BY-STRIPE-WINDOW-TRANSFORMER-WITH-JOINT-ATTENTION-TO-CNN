@@ -37,6 +37,12 @@ test_mask_1~60_path: 'yourpath/test_mask_1+10_file/' # path
 
 path txt example
 ```python
+
+E:/Place2/data_256/00000001.jpg
+E:/Place2/data_256/00000002.jpg
+E:/Place2/data_256/00000003.jpg
+E:/Place2/data_256/00000004.jpg
+E:/Place2/data_256/00000005.jpg
 ⋮
 
 ```
