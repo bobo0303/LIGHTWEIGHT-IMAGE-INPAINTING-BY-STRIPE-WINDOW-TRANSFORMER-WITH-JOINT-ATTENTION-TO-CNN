@@ -107,8 +107,9 @@ All training and testing base on same 3060.
 
 <div align=center>
 <img src="https://imgur.com/cY1bKyp.jpg" width="500" height="150">
-</div>
+ 
 <img src="https://imgur.com/Utxgfzs.jpg" width="500" height="150">
+</div>
 
 
 
@@ -116,6 +117,8 @@ All training and testing base on same 3060.
 This repository utilizes the codes of following impressive repositories   
 - [ZITS](https://github.com/DQiaole/ZITS_inpainting)
 - [LaMa](https://github.com/saic-mdal/lama)
+- [CSWin Transformer](https://github.com/microsoft/CSWin-Transformer)
+- [Vision Transformer](https://github.com/google-research/vision_transformer)
 
 ---
 ## Contact
