@@ -102,14 +102,13 @@ All training and testing base on same 3060.
 
 - Transformer and HSV loss
 
-<img src="https://imgur.com/cY1bKyp.jpg" width="550" height="150">
+<img src="https://imgur.com/cY1bKyp.jpg" width="500" height="150">
 
 
 ## Acknowledgement
 This repository utilizes the codes of following impressive repositories   
-- [chainer-cyclegan](https://github.com/Aixile/chainer-cyclegan)  
-- [partialconv](https://github.com/NVIDIA/partialconv)
-- [chainer-partial_convolution_image_inpainting](https://github.com/SeitaroShinagawa/chainer-partial_convolution_image_inpainting)
+- [ZITS](https://github.com/DQiaole/ZITS_inpainting)
+- [LaMa](https://github.com/saic-mdal/lama)
 
 ---
 ## Contact
