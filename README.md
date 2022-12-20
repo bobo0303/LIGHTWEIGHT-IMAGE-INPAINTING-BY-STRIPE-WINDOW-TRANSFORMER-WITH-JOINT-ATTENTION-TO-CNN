@@ -85,11 +85,14 @@ python test.py (main setting test_ckpt/test_path/test_mask_1_60_path/save_img_pa
 
 - LPIPS (Places2)
 
+<div align=center>
 <img src="https://imgur.com/GoJL936.jpg" width="550" height="150">
+</div>
 
 All training and testing base on same 3060.
 
 ## Visual comparisons
+
 - Places2
 
 <img src="https://imgur.com/MXPw6V5.jpg" width="1000" style="zoom:100%;">
@@ -105,6 +108,9 @@ All training and testing base on same 3060.
 <div align=center>
 <img src="https://imgur.com/cY1bKyp.jpg" width="500" height="150">
 </div>
+<img src="https://imgur.com/Utxgfzs.jpg" width="500" height="150">
+
+
 
 ## Acknowledgement
 This repository utilizes the codes of following impressive repositories   
