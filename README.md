@@ -1,4 +1,4 @@
-# CSWin Transformer with joint attention for image inpainting (ICME 2023)
+# LIGHTWEIGHT IMAGE INPAINTING BY STRIPE WINDOW TRANSFORMER WITH JOINT ATTENTION TO CNN (ICME 2023)
 
 標題+arxiv鏈結
 
