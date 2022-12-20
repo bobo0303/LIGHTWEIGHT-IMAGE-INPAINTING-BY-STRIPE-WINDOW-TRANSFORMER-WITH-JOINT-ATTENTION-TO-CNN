@@ -77,15 +77,15 @@ python test.py (main setting test_ckpt/test_path/test_mask_1_60_path/save_img_pa
 
 - Places2
 
-<img src="https://imgur.com/94ToBGm.jpg" width="700" height="600">
+<img src="https://imgur.com/94ToBGm.jpg" width="1312" height="350">
 
 - CelebA 
 
-<img src="https://imgur.com/aQW3dp7.jpg" width="700" height="600">
+<img src="https://imgur.com/aQW3dp7.jpg" width="1312" height="350">
 
 - LPIPS (Places2)
 
-<img src="https://imgur.com/GoJL936.jpg" width="861" height="131">
+<img src="https://imgur.com/GoJL936.jpg" width="550" height="150">
 
 All training and testing base on same 3060.
 
@@ -102,7 +102,7 @@ All training and testing base on same 3060.
 
 - Transformer and HSV loss
 
-<img src="https://imgur.com/cY1bKyp.jpg" width="861" height="131">
+<img src="https://imgur.com/cY1bKyp.jpg" width="550" height="150">
 
 
 ## Acknowledgement
