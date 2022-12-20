@@ -97,9 +97,13 @@ All training and testing base on same 3060.
 
 <img src="https://imgur.com/MXPw6V5.jpg" width="1000" style="zoom:100%;">
 
+Qualitative results of Places2 dataset among all compared models. From left to right: Masked image, RW, DeepFill_v2, HiFill, Iconv, AOT-GAN, CRFill, TFill, and Ours. Zoom-in for details.
+
 - CelebA
 
 <img src="https://imgur.com/kpLYqj3.jpg" width="1000" style="zoom:100%;">
+
+Qualitative results of Places2 dataset among all compared models. From left to right: Masked image, RW, DeepFill_v2, Iconv, AOT-GAN, CRFill, TFill, and Ours. Zoom-in for details.
 
 ## Ablation study
 
@@ -112,8 +116,6 @@ All training and testing base on same 3060.
 </div>
 
 Fig(right) : Ablation study of color deviation on inpainted images. From left to right: Masked images, w/o TotalHSV loss, and TotalHSV loss (w/o V).
-
-
 
 ## Acknowledgement
 This repository utilizes the codes of following impressive repositories   
