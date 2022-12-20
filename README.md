@@ -73,19 +73,19 @@ python test.py (main setting test_ckpt/test_path/test_mask_1_60_path/save_img_pa
 1. set the config path ('./config/model_config.yml')
 2. Set path and parameter details in model_config.yml
 
-## Result
+## Quantitative comparison
 
 - Places2
 
-<img src="https://imgur.com/P2XHsSA.jpg" width="700" height="600">
+<img src="https://imgur.com/94ToBGm.jpg" width="700" height="600">
 
 - CelebA 
 
-<img src="https://imgur.com/ARzFFZv.jpg" width="700" height="600">
+<img src="https://imgur.com/aQW3dp7.jpg" width="700" height="600">
 
 - LPIPS (Places2)
 
-<img src="https://imgur.com/hjZB4k7.jpg" width="861" height="131">
+<img src="https://imgur.com/GoJL936.jpg" width="861" height="131">
 
 All training and testing base on same 3060.
 
@@ -98,10 +98,11 @@ All training and testing base on same 3060.
 
 <img src="https://imgur.com/kpLYqj3.jpg" width="1000" style="zoom:100%;">
 
-## Ablation studies
-- HSV
+## Ablation study
 
-- Transformer
+- Transformer and HSV loss
+
+<img src="https://imgur.com/cY1bKyp.jpg" width="861" height="131">
 
 
 ## Acknowledgement
