@@ -110,9 +110,9 @@ Qualitative results of Places2 dataset among all compared models. From left to r
 - Transformer and HSV loss
 
 <div align=center>
-<img src="https://imgur.com/cY1bKyp.jpg" width="500" height="150">
+<img src="https://imgur.com/cY1bKyp.jpg" width="450" height="150">
  
-<img src="https://imgur.com/Utxgfzs.jpg" width="500" height="150">
+<img src="https://imgur.com/Utxgfzs.jpg" width="450" height="150">
 </div>
 
 Fig(right) : Ablation study of color deviation on inpainted images. From left to right: Masked images, w/o TotalHSV loss, and TotalHSV loss (w/o V).
