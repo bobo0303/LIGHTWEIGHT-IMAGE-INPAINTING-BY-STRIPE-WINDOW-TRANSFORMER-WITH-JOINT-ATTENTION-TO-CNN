@@ -91,7 +91,7 @@ python test.py (main setting test_ckpt/test_path/test_mask_1_60_path/save_img_pa
 
 All training and testing base on same 3060.
 
-## Visual comparisons
+## Qualitative comparisons
 
 - Places2
 
@@ -110,6 +110,8 @@ All training and testing base on same 3060.
  
 <img src="https://imgur.com/Utxgfzs.jpg" width="500" height="150">
 </div>
+
+Fig(right) : Ablation study of color deviation on inpainted images. From left to right: Masked images, w/o TotalHSV loss, and TotalHSV loss (w/o V).
 
 
 
