@@ -83,6 +83,8 @@ python test.py (main setting test_ckpt/test_path/test_mask_1_60_path/save_img_pa
 
 <img src="https://imgur.com/aQW3dp7.jpg" width="1312" height="350">
 
+Quantitative evaluation of inpainting on Places2 dataset. We report Peak signal-to-noise ratio (PSNR) and structural similarity (SSIM) metrics. The ▲ denotes larger, and ▼ denotes lesser of the parameters compared to our proposed model. (Bold means the 1st best; Underline means the 2nd best; Italics means the 3rd best)
+
 - LPIPS (Places2)
 
 <div align=center>
