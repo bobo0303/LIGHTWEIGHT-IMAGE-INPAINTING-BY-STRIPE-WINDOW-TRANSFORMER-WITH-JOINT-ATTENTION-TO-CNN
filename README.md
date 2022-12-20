@@ -102,8 +102,9 @@ All training and testing base on same 3060.
 
 - Transformer and HSV loss
 
+<div align=center>
 <img src="https://imgur.com/cY1bKyp.jpg" width="500" height="150">
-
+</div>
 
 ## Acknowledgement
 This repository utilizes the codes of following impressive repositories   
