@@ -118,6 +118,7 @@ Qualitative results of Places2 dataset among all compared models. From left to r
 </div>
 
 (left) : Ablation study label of transformer and HSV experiment.
+
 (right) : Ablation study of color deviation on inpainted images. From left to right: Masked images, w/o TotalHSV loss, and TotalHSV loss (w/o V).
 
 ## Object removal
