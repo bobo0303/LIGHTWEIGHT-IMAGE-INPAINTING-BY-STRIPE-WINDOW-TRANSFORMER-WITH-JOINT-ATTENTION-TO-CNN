@@ -117,7 +117,16 @@ Qualitative results of Places2 dataset among all compared models. From left to r
 <img src="https://imgur.com/cY1bKyp.jpg" width="410" height="150"><img src="https://imgur.com/Utxgfzs.jpg" width="410" height="150">
 </div>
 
-Fig(right) : Ablation study of color deviation on inpainted images. From left to right: Masked images, w/o TotalHSV loss, and TotalHSV loss (w/o V).
+(right) : Ablation study of color deviation on inpainted images. From left to right: Masked images, w/o TotalHSV loss, and TotalHSV loss (w/o V).
+
+## Object removal
+
+<div align=center>
+<img src="https://imgur.com/a/U1MNz7r.jpg" width="1312" height="350">
+</div>
+
+Object removal (size 256×256) results. From left to right: Original image, mask, object removal result.
+
 
 ## Acknowledgement
 This repository utilizes the codes of following impressive repositories   
