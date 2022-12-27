@@ -122,7 +122,7 @@ Qualitative results of Places2 dataset among all compared models. From left to r
 ## Object removal
 
 <div align=center>
-<img src="https://imgur.com/a/U1MNz7r" width="1312" height="350">
+<img src="https://imgur.com/a/U1MNz7r.jpg" width="1300" height="350">
 </div>
 
 Object removal (size 256×256) results. From left to right: Original image, mask, object removal result.
