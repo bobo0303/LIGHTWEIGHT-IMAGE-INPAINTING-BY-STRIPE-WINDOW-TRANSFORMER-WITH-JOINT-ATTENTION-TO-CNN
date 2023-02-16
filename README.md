@@ -145,12 +145,7 @@ If you have any question, feel free to contact wiwi61666166@gmail.com
 ## Cite
 ```
 
-@article{liu2023lightweight,
-  title={Lightweight Image Inpainting by Stripe Window Transformer with Joint Attention to CNN},
-  author={Liu, Tsung-Jung and Chen, Po-Wei and Liu, Kuan-Hsien},
-  journal={arXiv preprint arXiv:2301.00553},
-  year={2023}
-}
+
 
 ```
 
