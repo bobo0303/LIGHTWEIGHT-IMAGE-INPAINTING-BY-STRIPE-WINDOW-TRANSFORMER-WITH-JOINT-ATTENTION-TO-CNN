@@ -2,16 +2,16 @@
 gpu: 0
 world_size: 1
 # The name of this exp
-name: '20221128_loop_HSV_Stylerewrite_lrdowm5to6_'
+name: 'CSWtrainsformer_yourpath'
 ckpt_path: './ckpt/'
 
 # The config file of each experiment
 config_path: './config_list/'
 
 # start from where, the default is latest
-resume_ckpt: 'C:/Users/wiwiw/subject20220725/ckpt/20221128_loop_HSV_Stylerewrite_lrdowm5to6_/model_last.pth' #'C:/Users/wiwiw/subject20220725/ckpt/places2_20000_GTLC_202200919_HSVremake_midlayers_morelayer_HSV_wo_V/model_last.pth'
-resume_D_ckpt: 'C:/Users/wiwiw/subject20220725/ckpt/20221128_loop_HSV_Stylerewrite_lrdowm5to6_/Discriminator_last.pth' #'C:/Users/wiwiw/subject20220725/ckpt/places2_20000_GTLC_202200919_HSVremake_midlayers_morelayer_HSV_wo_V/Discriminator_last.pth'
-test_ckpt: 'C:/Users/wiwiw/subject20220725/ckpt/20221128_loop_HSV_Stylerewrite_lrdowm5to6_/model_bestPSNR.pth' #'C:/Users/wiwiw/subject20220725/ckpt/places2_20000_GTLC_20220831_1704_model_concat_Sigmoid_halfCforGandL_n_head8/model_bestPSNR.pth'
+resume_ckpt: None #'your path'
+resume_D_ckpt: None #'your path'
+test_ckpt: None #'your path'
 
 # data_path & mask_path should be .txt
 data_path: './txt/3060_train_dataset_place2.txt'
