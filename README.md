@@ -92,7 +92,7 @@ All training and testing base on same 3060.
 
 <img src="https://i.imgur.com/FMGm4mB.jpg" width="1000" style="zoom:100%;">
 
-Qualitative results of Places2 dataset among all compared models. From left to right: Masked image, RW, DeepFill_v2, HiFill, Iconv, AOT-GAN, CRFill, TFill, and Ours. Zoom-in for details.
+Qualitative results of Places2 dataset among all compared models. From left to right: Masked image, DeepFill_v2, HiFill, Iconv, AOT-GAN, HiFill, CRFill, TFill, and Ours. Zoom-in for details.
 
 - CelebA
 
