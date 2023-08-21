@@ -105,7 +105,7 @@ Qualitative results of CelebA dataset among all compared models. From left to ri
 - Transformer and HSV loss
 
 <div align=center>
-<img src="https://imgur.com/cY1bKyp.jpg" width="410" height="150"><img src="https://imgur.com/Utxgfzs.jpg" width="410" height="150">
+<img src="https://i.imgur.com/DoYLVKD.png" width="410" height="150"><img src="https://imgur.com/Utxgfzs.jpg" width="410" height="150">
 </div>
 
 (left) : Ablation study label of transformer and HSV experiment.
@@ -115,7 +115,7 @@ Qualitative results of CelebA dataset among all compared models. From left to ri
 ## Object removal
 
 <div align=center>
-<img src="https://imgur.com/YegPtfj.jpg" width="1300" height="350">
+<img src="https://i.imgur.com/IYIMow7.jpg" width="1300" height="350">
 </div>
 
 Object removal (size 256×256) results. From left to right: Original image, mask, object removal result.
