@@ -78,21 +78,11 @@ python test.py (main setting test_ckpt/test_path/test_mask_1_60_path/save_img_pa
 
 ## Quantitative comparison
 
-- Places2
+- Places2 & CelebA
 
-<img src="https://imgur.com/94ToBGm.jpg" width="1312" height="350">
+<img src="https://i.imgur.com/WelO9t7.png" width="1312" height="350">
 
-- CelebA 
-
-<img src="https://imgur.com/aQW3dp7.jpg" width="1312" height="350">
-
-Quantitative evaluation of inpainting on Places2 dataset. We report Peak signal-to-noise ratio (PSNR) and structural similarity (SSIM) metrics. The ▲ denotes larger, and ▼ denotes lesser of the parameters compared to our proposed model. (Bold means the 1st best; Underline means the 2nd best; Italics means the 3rd best)
-
-- LPIPS (Places2)
-
-<div align=center>
-<img src="https://imgur.com/GoJL936.jpg" width="550" height="150">
-</div>
+Quantitative evaluation of inpainting on Places2 and CelebA datasets. We report Peak signal-to-noise ratio (PSNR), structural similarity (SSIM) and Learned Perceptual Image Patch Similarity (LPIPS) metrics. The ▲ denotes larger, and ▼ denotes lesser of the parameters compared to our proposed model. (Bold means the 1st best; Underline means the 2nd best)
 
 All training and testing base on same 3060.
 
@@ -100,15 +90,15 @@ All training and testing base on same 3060.
 
 - Places2
 
-<img src="https://imgur.com/MXPw6V5.jpg" width="1000" style="zoom:100%;">
+<img src="https://i.imgur.com/FMGm4mB.jpg" width="1000" style="zoom:100%;">
 
 Qualitative results of Places2 dataset among all compared models. From left to right: Masked image, RW, DeepFill_v2, HiFill, Iconv, AOT-GAN, CRFill, TFill, and Ours. Zoom-in for details.
 
 - CelebA
 
-<img src="https://imgur.com/kpLYqj3.jpg" width="1000" style="zoom:100%;">
+<img src="https://i.imgur.com/hPPQQ3W.jpg" width="1000" style="zoom:100%;">
 
-Qualitative results of Places2 dataset among all compared models. From left to right: Masked image, RW, DeepFill_v2, Iconv, AOT-GAN, CRFill, TFill, and Ours. Zoom-in for details.
+Qualitative results of CelebA dataset among all compared models. From left to right: Masked image, RW, DeepFill_v2, Iconv, AOT-GAN, CRFill, TFill, and Ours. Zoom-in for details.
 
 ## Ablation study
 
