@@ -80,7 +80,7 @@ python test.py (main setting test_ckpt/test_path/test_mask_1_60_path/save_img_pa
 
 - Places2 & CelebA
 
-<img src="https://i.imgur.com/WelO9t7.png" width="1312" height="350">
+<img src="https://i.imgur.com/WelO9t7.png" width="1312" height="250">
 
 Quantitative evaluation of inpainting on Places2 and CelebA datasets. We report Peak signal-to-noise ratio (PSNR), structural similarity (SSIM) and Learned Perceptual Image Patch Similarity (LPIPS) metrics. The ▲ denotes larger, and ▼ denotes lesser of the parameters compared to our proposed model. (Bold means the 1st best; Underline means the 2nd best)
 
