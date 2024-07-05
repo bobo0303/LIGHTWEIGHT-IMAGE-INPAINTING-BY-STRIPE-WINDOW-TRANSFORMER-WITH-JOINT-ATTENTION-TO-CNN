@@ -54,7 +54,7 @@ strokes (from left to right 20%-30% 30%-40% 40%-50% 50%-60%)
 <img src="https://imgur.com/m3CStkN.png" alt="https://imgur.com/m3CStkN.png" title="https://imgur.com/m3CStkN.png" width="1000" height="200">
 
 ## Pretrained model
-["Here"](https://drive.google.com/drive/u/4/folders/1QeLZc7_4TZVZ7awRQXNmgvGtPl6OGUAR)
+["Here"](https://drive.google.com/drive/u/4/folders/1QeLZc7_4TZVZ7awRQXNmgvGtPl6OGUAR) (Updated to open download permission)
 
 ## Run training
 ```python
